@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyOkHttp</string>
+    <string name="text_button">Call OkHttp</string>
+</resources>
